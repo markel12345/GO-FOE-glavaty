@@ -66,6 +66,3 @@ Let's write what it is currently done, will be done, might be done, will not be 
  - System notification, like windows toast etc.
 
  - WEB server with clean design; CLI is probably not for every1 :D
-
-https://stackedit.io/editor
-

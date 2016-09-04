@@ -20,15 +20,17 @@ Let's write what it is currently done, will be done, might be done, will not be 
 
  - When you visit a player's town, GB's that have next requirements bellow, will be listed:
 	 - if GB is leveled more than 50%:
-		 - ![enter image description here](http://i.imgur.com/4i7oSpb.png)
+		 - ![](http://i.imgur.com/4i7oSpb.png)
 	 - if you have invested in this GB:
-		 - ![enter image description here](http://i.imgur.com/gsxZeuz.png)
-		 - ![enter image description here](http://i.imgur.com/NOUfn5U.png)
+		 - ![](http://i.imgur.com/gsxZeuz.png)
+		 - ![](http://i.imgur.com/NOUfn5U.png)
 	 - if GB contribution has changed since last visit:
-		 - ![enter image description here](http://i.imgur.com/kkw6RXv.png)
+		 - ![](http://i.imgur.com/kkw6RXv.png)
+	 - if player is more than 5 days inactive:
+	 - 	 - ![](http://i.imgur.com/NZxLAIz.png)
 
  - When you visit a global ranking GB list, you get the same output as if you visit a player's town, with the difference:
-![enter image description here](http://i.imgur.com/V4xbBI2.png)
+![](http://i.imgur.com/V4xbBI2.png)
 	 - show only player's GB that you can contribute to (friends, neighbors, guild members);
 	 - show only those that have changed since last visit;
 	 - show only those that are not secured (do not show GB's where you already secured a rank; what for?).
@@ -39,21 +41,21 @@ Let's write what it is currently done, will be done, might be done, will not be 
 
  - When you visit a GB construction you get next possible results/calculations:
 	 - overtake rank with earnings:
-		 - ![enter image description here](http://i.imgur.com/rJhkb85.png)
+		 - ![](http://i.imgur.com/rJhkb85.png)
 	 - overtake rank with loss:
-		 - ![enter image description here](http://i.imgur.com/PixgJ3z.png)
+		 - ![](http://i.imgur.com/PixgJ3z.png)
 	 - rank is secured:
-		 - ![enter image description here](http://i.imgur.com/wcrjCCN.png)
+		 - ![](http://i.imgur.com/wcrjCCN.png)
 	 - no action available:
-		 - ![enter image description here](http://i.imgur.com/1Hkzm3d.png)
-		 - ![enter image description here](http://i.imgur.com/l4Mc8rf.png)
-		 - ![enter image description here](http://i.imgur.com/hnFNk55.png)
-		 - ![enter image description here](http://i.imgur.com/wSNjD11.png)
+		 - ![](http://i.imgur.com/1Hkzm3d.png)
+		 - ![](http://i.imgur.com/l4Mc8rf.png)
+		 - ![](http://i.imgur.com/hnFNk55.png)
+		 - ![](http://i.imgur.com/wSNjD11.png)
 		 - road missing etc...
 		 - and so on...
 
  - When you contribute to GB, FP status of the GB is saved to DB, so next time you visit a player, GB ranking list or GB contribution list, you are shown the list of GB's that have changed from your last visit:
-![enter image description here](http://i.imgur.com/lmNeWCq.png)
+![](http://i.imgur.com/lmNeWCq.png)
 
 
 ###Wish list:

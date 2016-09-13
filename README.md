@@ -38,6 +38,8 @@ Let's write what it is currently done, will be done, might be done, will not be 
  - When you visit your GB contribution list, you get the same output as if you visit a player's town, with the difference:
 	 - show only those that have changed since last visit;
 	 - show only those that are not secured (do not show GB's where you already secured a rank; what for?).
+	 - show GB's that have leveled:
+		 - ![](http://i.imgur.com/5VLayAX.png )
 
  - When you visit a GB construction you get next possible results/calculations:
 	 - overtake rank with earnings:
@@ -68,3 +70,7 @@ Let's write what it is currently done, will be done, might be done, will not be 
  - System notification, like windows toast etc.
 
  - WEB server with clean design; CLI is probably not for every1 :D
+ 
+ - When attacking your neighbor, remember his defence army and boost, and show it next time you attack him.
+
+ - When attacking on continent map, guild expedition or neighbor (with remembered last army) show what army should be best to defeat it.

@@ -74,5 +74,5 @@ Let's write what it is currently done, will be done, might be done, will not be 
  - When attacking your neighbor, remember his defence army and boost, and show it next time you attack him.
 
  - When attacking on continent map, guild expedition or neighbor (with remembered last army) show what army should be best to defeat it.
- 
-  - Show players that have not aided me for X days.
+
+ - Show players that have not aided me for X days.
